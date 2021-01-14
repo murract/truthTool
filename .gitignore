@@ -1,0 +1,7 @@
+/ffmpeg
+/Include
+/Lib
+*.cfg
+/Scripts
+*.mp4
+*.jpg

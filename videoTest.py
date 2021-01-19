@@ -7,8 +7,7 @@ from pyqtgraph.Qt import QtCore, QtGui
 import pyqtgraph as pg
 import ffmpy
 
-inp = ffmpy.input('bunny.mp4')
-out = ffmpy.output(audio, video, 'bunny.avi')
+
 
 pg.setConfigOptions(imageAxisOrder='row-major')
 
